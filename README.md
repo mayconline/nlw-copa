@@ -28,3 +28,4 @@
 
 - [Fastify](https://www.fastify.io/docs/latest/Guides/Getting-Started/)
 - [Zod](https://zod.dev/?id=basic-usage)
+- [Prisma](https://www.prisma.io/docs/getting-started/quickstart)
